@@ -1,1 +1,1 @@
-# CodingTest_Prep
+# Algorithm Study
